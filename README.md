@@ -1,4 +1,4 @@
-#📅 Daily Learning AI Plan (TR 🇹🇷 & EN 🇬🇧)
+📅 Daily Learning AI Plan (TR 🇹🇷 & EN 🇬🇧)
 
 🇹🇷 Türkçe 
 
