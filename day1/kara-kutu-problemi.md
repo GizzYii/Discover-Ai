@@ -7,7 +7,7 @@
 ### 🎬 Video Özeti
 Kara Kutu Problemi, bir yapay zeka algoritmasının (özellikle Derin Öğrenme modelleri) nasıl çalıştığını tam olarak bilemememizi ifade eder. Model, karmaşık girdiler alır ve bir çıktı üretir; ancak bu süreç gizli kalır.  
 
-**Video Önerisi:** [Yapay Zekada Kara Kutu Problemi Videosu](#)
+**Video Önerisi:** [Yapay Zekada Kara Kutu Problemi Videosu](https://www.youtube.com/shorts/jOKMXPI1ano)
 
 ---
 
